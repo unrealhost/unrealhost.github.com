@@ -1,0 +1,20 @@
+Your preferred name and other information that you would like to share about yourself.
+^
+Hello, my name is Ethan. I'm a second year student at Mesa that's trying to learn about web development. When I'm not at school, I'm probably at work as a projectionist, both film and digital, or going on weekend trips in my Jeep.
+
+Tell us about your web design skill set:
+^
+I have designed a few websites before for personal projects or for class and I use GitHub to host them all. I've got a long history with computers and I am fairly confident with the basic web languages like CSS and HTML, but hardware is my prefered area.
+
+Why are you taking WEBD 168?
+^
+I'm taking this course to eventually get a degree in web development because it's something that I enjoy and it's a skill that is sought after. 
+
+Tell us about your other activities this semester:
+^
+This semester I'm also taking a web database course and one on creating user centered content to get my skills a bit more rounded and also to get closer to completing the degree requirements. I work as a projectionist most nights and I often end up leaving in the early hours in the morning, so my goal is to attend all the class sessions this semester.
+
+Describe what you would like to be doing 5 years from now. Be as detailed as possible. There is a saying, "If you can dream it, you can achieve it!"
+^
+In five years I'd like to have a stable job that would allow me to "work from home" while living on the road, although it'll  probably take more than five years to get there I'm still hoping.
+

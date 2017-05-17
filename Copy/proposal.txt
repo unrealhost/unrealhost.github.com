@@ -1,0 +1,19 @@
+Describe what your proposed web site will be about.
+^
+I would like my website to be a portfolio about me and my work/hobbies, similar to the mish-mash of trip photography and computer builds that I had last semester, but better thought out and with more content.
+
+Who is your targeted audience?
+^
+My target audience is any potential employer or client.
+
+What do you want visitors to your website to do:
+^
+I'd like the audience to just take the time and look through the content I've put up on the website, and if they like what they see on it maybe they could contact me to learn more.
+
+Gathering and preparing content is often the most time-consuming part of the web site project, especially if you depend on others to supply the content. Describe the different types of content that you plan to use in your project, and where you plan to obtain them from.
+^
+I have all the content that I need already in the form of photos, anything I might need later on I'll be able to take myself. The only other content I might need would be Google Maps iframe to give a location for the photos I provided.
+
+Why did you choose this topic for your proposed web site?
+^
+I picked this topic because I'd like to have a website I can use and build on in the future, and it puts all of my interests in a single place to look back on in the future.

@@ -1,0 +1,167 @@
+/*
+Assignment: WEBD 168 Assignment 4
+Author: Ethan Campbell
+Date: 5/16/17
+Filename: wed168.css
+Description: CSS for Assignment 4
+Comments:
+*/
+
+div#banner {
+    padding: 1px;
+    position: relative;
+    height: 120px;
+    background-color: darkslategray;
+    background-image: url();
+    background-position: 5% 5%;
+    background-repeat: no-repeat;
+}
+
+div#banner p {
+    position: absolute;
+    left: 40%;
+    top: 5%;
+    font-family: 'Inconsolata', sans-serif;
+    font-size: large;
+    color: darkkhaki;
+}
+
+div img {
+    width: 30%;
+    height: auto;
+}
+body {
+    margin: 0;
+    padding: 0px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1em;
+    background-color: darkkhaki;
+}
+
+footer {
+    text-align: right;
+    font-weight: bold;
+    padding-right: 15px;
+}
+
+dl dt {
+    text-align: center;
+    background-color: darkgray;
+    font-weight: bold;
+    padding: 5px;
+}
+
+dl dd {
+    text-align: center;
+    padding: 4px;
+}
+
+article {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+}
+
+article figure{margin: 0;
+    text-align: center;
+}
+
+figure img {
+    padding: 7px;
+    background-color: rgb(136,136,136)
+}
+
+dt:nth-of-type(odd) {
+    background-color: rgb(82, 91, 118);
+    background-color: rgba(82, 91, 118, .45);
+}
+
+dt:nth-of-type(even) {
+    background-color: rgb(0, 167, 225);
+    background-color: rgba(0, 167, 225,.65);
+}
+
+dd::first-line {
+    letter-spacing: .1em
+}
+
+dd::first-letter {
+    color: #525B76;
+}
+
+figcaption {
+    font-family: Courier, monospace;
+    font-size: small;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: cadetblue;
+}
+
+li a {
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px 17px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: coral;
+}
+
+
+
+@media screen and (min-width: 600px) {
+   nav ul {
+    list-style: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: cadetblue;
+}
+li {
+    float: left;
+}
+   nav li a {
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px 17px;
+    text-decoration: none;
+}
+
+   nav li a:hover {
+    background-color: coral;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*google fonts
+font-family: 'Raleway', sans-serif;
+font-family: 'Inconsolata', monospace;
+*/
